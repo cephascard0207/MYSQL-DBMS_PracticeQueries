@@ -1,0 +1,1 @@
+# MYSQL-DBMS_PracticeQueries
